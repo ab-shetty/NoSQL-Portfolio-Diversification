@@ -1,6 +1,5 @@
 # NoSQL-Portfolio-Diversification
 
-# README.md
 
 ## Project Overview
 
